@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- app info -->
+    
+    <string name="app_name">BoringTalks</string>
+    <string name="app_version">version: 1.1.1.07062012_beta</string>
+    
+    <!-- ConversationActivity defined names -->
+    <string name="edit_text_send_message">Say HI!!</string>
+    <string name="button_send_message">Talk</string>
+    <string name="dialog_exit">Are you really want to leave?</string>
+    
+    <!-- Sender name -->
+    <string name="user_sender">YOU</string>
+    <string name="robot_sender">XIAO i</string>
+    
+    <!-- Notification strings -->
+    <string name="flow_text">BoringTalks is running</string>
+    <string name="title_text">BoringTalks</string>
+    <string name="title_new_message">New message</string>
+    
+    <!-- file names -->
+    <string name="file_default_folder">default</string>
+    <string name="file_sd_folder">boringtalks</string>
+    <string name="file_share_image">share-image.jpg</string>
+    
+    <!-- about activity -->
+    <string name="load_page">Loading</string>
+    
+    
+</resources>
